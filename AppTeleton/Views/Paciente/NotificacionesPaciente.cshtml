@@ -1,0 +1,32 @@
+﻿@model IEnumerable<LogicaNegocio.Entidades.Notificacion>
+
+@{
+    ViewData["Title"] = "NotificacionesPaciente";
+}
+
+<h1 style="text-align:center;">Notificaciones</h1>
+
+
+
+
+@foreach (var item in Model) {
+
+    <div class="row notificacionContainer align-items-between justify-content-between">
+    <div class="col-10 col-md-8 col-lg-6 row">
+
+            <div class="col-12 tituloNotificacionPaciente">
+                @Html.DisplayFor(modelItem => item.Titulo)
+        </div>
+            <div class="col-12 cuerpoNotificacionPaciente">
+                @Html.DisplayFor(modelItem => item.Mensaje)
+        </div>
+
+    </div>
+        <div class="col-2 borrarNotificacionPaciente">
+            @Html.ActionLink("X", "Borrar","Notificacion", new {  id=item.Id  })
+        </div>
+
+
+    </div>
+}
+

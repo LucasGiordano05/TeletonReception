@@ -1,0 +1,104 @@
+
+@model AccesoTotemViewModel;
+
+@{
+    ViewData["Title"] = "HomeUsuario";
+  
+
+}
+
+        @if (ViewBag.Mensaje != null)
+        {
+            if (ViewBag.TipoMensaje == "ERROR")
+            {
+                <div class="alert alert-danger" role="alert">@ViewBag.Mensaje</div>
+            }
+            else if (ViewBag.TipoMensaje == "EXITO")
+            {
+                <div class="alert alert-success" role="alert">@ViewBag.Mensaje</div>
+            }
+        }
+
+    
+          
+        <div class="row contenedorHomeUsuario">
+
+            <div class="col-3 col-md-2 text-white contenedorListadoHomeUsuario d-flex flex-column align-items-center justify-content-between">
+                <div class="mb-3">
+                  
+                    <h3 class="h3HomeUsuario">Menú</h3>
+                    <ul class="list-unstyled listadoNavHomeUsuario">
+                        <li><a asp-action="HomeUsuario" asp-route-cedula="@ViewBag.CedulaUsuario" class="text-white"><i class="fas fa-calendar-alt"></i> Agenda</a></li>
+                <li><a asp-action="PreguntasParaTotem" asp-route-cedula="@ViewBag.CedulaUsuario"  class="text-white"><i class="fas fa-question-circle"></i> Preguntas</a></li>
+                <li><a asp-action="Mapa" asp-route-cedula="@ViewBag.CedulaUsuario" class="text-white"><i class="fas fa-map-marker-alt"></i> Mapa</a></li>
+                    </ul>
+                </div>
+                <div>
+            <ul class="list-unstyled listadoNavHomeUsuario ">
+                        <li><a href="@Url.Action("CerrarAcceso", "Totem")" class="text-white"><i class="fas fa-sign-out-alt"></i>Salir</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-9 col-md-10 contenedorContenidoHomeUsuario">
+                <div id="time" class="alert alert-danger" role="alert"></div>
+                <h3 class="homeUsuarioTitulo">Tratamientos para hoy</h3>
+      
+                @if (Model.Citas != null && Model.Citas.Count()>0){
+                <table class="table mt-3 tablaCitasTotem">
+                    <thead>
+                        <tr class="titulosTr">
+                        <th>
+                            Hora
+                        </th>
+                            <th>
+                                Servicio
+                            </th>
+                      
+                            
+                        <th>
+                            Consultorio
+                        </th>
+                      
+                    </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Citas)
+                        {
+                            <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HoraInicio) hs
+                            </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Servicio)
+                                </td>
+                               
+                               
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Consultorio)
+                            </td>
+
+
+                           
+                            </tr>
+                        }
+                    </tbody>
+                    </table>
+                }
+                else
+                {
+                    
+                <h4>No tiene citas agendadas para el dia actual, consulte en recepción en caso de que esto sea un error</h4>
+                }
+        </div>
+         </div>
+    
+   
+
+    
+
+    <script src="~/js/timerAcceso.js"></script>
+
+    <form asp-action="Index" id="formCerrarSesionAutomaticamente"></form>
+
+
+

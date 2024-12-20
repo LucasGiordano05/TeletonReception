@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppTeleton
+build_property.RootNamespace = AppTeleton
+build_property.ProjectDir = D:\admin\Nueva carpeta\Proyecto Teleton\ProyectoTeleton\AppTeleton\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\admin\Nueva carpeta\Proyecto Teleton\ProyectoTeleton\AppTeleton
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Administrador/AgregarAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxBZ3JlZ2FyQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Administrador/AgregarMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxBZ3JlZ2FyTWVkaWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Administrador/AgregarRecepcionista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvclxBZ3JlZ2FyUmVjZXBjaW9uaXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Chat/AdministracionBot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxBZG1pbmlzdHJhY2lvbkJvdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Chat/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxDaGF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Citas/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRGV0YWxsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Citas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Encuesta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5jdWVzdGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Encuesta/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5jdWVzdGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Encuesta/VisualizarDatosEncuestas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5jdWVzdGFcVmlzdWFsaXphckRhdG9zRW5jdWVzdGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/LLamado/MostrarLlamado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTExhbWFkb1xNb3N0cmFyTGxhbWFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Medico/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Notificacion/ConfigurarRecordatorios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2FjaW9uXENvbmZpZ3VyYXJSZWNvcmRhdG9yaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Notificacion/EnviarAvisos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2FjaW9uXEVudmlhckF2aXNvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Notificacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2FjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Paciente/NotificacionesPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcTm90aWZpY2FjaW9uZXNQYWNpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/PreguntasFrecuentes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZ3VudGFzRnJlY3VlbnRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/PreguntasFrecuentes/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZ3VudGFzRnJlY3VlbnRlc1xEZXRhbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/PreguntasFrecuentes/PreguntasFrecuentes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlZ3VudGFzRnJlY3VlbnRlc1xQcmVndW50YXNGcmVjdWVudGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Totem/CerrarSesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG90ZW1cQ2VycmFyU2VzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Totem/HomeUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG90ZW1cSG9tZVVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Totem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG90ZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Totem/Mapa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG90ZW1cTWFwYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Totem/MapaTotem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG90ZW1cTWFwYVRvdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Totem/PreguntasTotem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG90ZW1cUHJlZ3VudGFzVG90ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Usuario/ListadoUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMaXN0YWRvVXN1YXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Usuario/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/admin/Nueva carpeta/Proyecto Teleton/ProyectoTeleton/AppTeleton/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-prc4lvacpb

@@ -1,0 +1,2021 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\enums\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\worker\\notificacionesautomaticasworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:worker\\notificacionesautomaticasworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\notificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\worker\\enviarencuestasworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:worker\\enviarencuestasworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\encuesta\\visualizardatosencuestas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\encuesta\\visualizardatosencuestas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\totemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\totemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\servicios\\chatbotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\servicios\\accesosfallidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\config\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositoriodispositivonotificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositorioadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositorioaccesototem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\hubs\\listadoparamedicoshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:hubs\\listadoparamedicoshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\hubs\\hubconectado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:hubs\\hubconectado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\servicios\\solicitarpacientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\servicios\\solicitarcitasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\servicios\\recepcionarpacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\servicios\\geolocalizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\servicios\\enviarnotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\worker\\cargarpacientesworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:worker\\cargarpacientesworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\accesototemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\accesototemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\hubs\\pantallallamadoshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:hubs\\pantallallamadoshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\hubs\\actualizarlistadohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:hubs\\actualizarlistadohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\preguntasfrecuentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\preguntasfrecuentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\llamadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\llamadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\usuariosconectados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\totem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\respuestaequivocada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\recepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\preguntafrec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\parametrosnotificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\llamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\dispositivonotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\encuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\conexionchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\categoriapregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\accesototem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\entidades\\accesosfallidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\totem\\mapatotem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\totem\\mapatotem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\totempreguntas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\totempreguntas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\timeracceso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\timeracceso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\tecladovirtualnumerico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\tecladovirtualnumerico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\tecladovirtualcompleto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\tecladovirtualcompleto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\sw.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\sw.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\pantallallamados.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\pantallallamados.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\clienthub.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\clienthub.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\altapreguntafrecuente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\altapreguntafrecuente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\actualizarlistadoparamedicos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\actualizarlistadoparamedicos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\wwwroot\\js\\actualizarlistadocitas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:wwwroot\\js\\actualizarlistadocitas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\preguntasfrecuentes\\preguntasfrecuentes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\preguntasfrecuentes\\preguntasfrecuentes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240830004946_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\notificacioncu\\notificacionesautomaticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\citasporfechaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\citasporfechaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\citasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\citasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\dto\\citamedicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\encuestacu\\enviarencuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\chat\\administracionbot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\chat\\administracionbot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\usuario\\listadousuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\usuario\\listadousuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\notificacion\\enviaravisos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\notificacion\\enviaravisos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826214512_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826213418_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826213353_asd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826205909_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\totem\\preguntastotem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\totem\\preguntastotem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\totem\\mapa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\totem\\mapa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\totem\\homeusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\totem\\homeusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositoriopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\preguntasfrecuentes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\preguntasfrecuentes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\notificacion\\configurarrecordatorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\notificacion\\configurarrecordatorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\totem\\cerrarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\totem\\cerrarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\totem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\totem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\administrador\\agregarmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\administrador\\agregarmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\administrador\\agregarrecepcionista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\administrador\\agregarrecepcionista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\administrador\\agregaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\administrador\\agregaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\citas\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\citas\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\interfacesrepositorio\\irepositoriodispositivonotificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\filtros\\medicologueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\filtros\\medicologueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\filtros\\adminlogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\filtros\\adminlogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\usuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\usuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\totemcu\\generaravisollegada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositoriopreguntafrec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\preguntasfreccu\\abmpreguntasfrec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\preguntasfreccu\\getpreguntasfrec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\interfacesrepositorio\\irepositoriopreguntafrec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\totemcu\\gettotems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\pacientecu\\abmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\dispositivousuariocu\\borrardispositivonotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240730210757_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositoriomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\dto\\notificaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240723020107_descCat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\views\\preguntasfrecuentes\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:views\\preguntasfrecuentes\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB624E-40FB-4F83-9395-59ED059E6D28}|..\\LogicaAplicacion\\LogicaAplicacion.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaplicacion\\casosuso\\usuariocu\\getusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\filtros\\pacienterecepcionistalogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\filtros\\pacienterecepcionistalogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3791EC3A-6C8D-4E10-9ED4-8F4761C7BAC0}|..\\LogicaNegocio\\LogicaNegocio.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicanegocio\\interfacesrepositorio\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\filtros\\pacientelogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\filtros\\pacientelogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\filtros\\totemlogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\filtros\\totemlogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B57A0-F5D0-4958-9AE9-B802BD090EB9}|..\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\logicaaccesodatos\\ef\\repositoriorecepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|d:\\admin\\nueva carpeta\\proyecto teleton\\proyectoteleton\\appteleton\\models\\filtros\\recepcionistaadminlogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C096F4-0F81-4D3E-83FA-5AC4CD1A6E03}|AppTeleton.csproj|solutionrelative:models\\filtros\\recepcionistaadminlogueado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240723020139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacionesAutomaticasWorker.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Worker\\NotificacionesAutomaticasWorker.cs",
+              "RelativeDocumentMoniker": "Worker\\NotificacionesAutomaticasWorker.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Worker\\NotificacionesAutomaticasWorker.cs",
+              "RelativeToolTip": "Worker\\NotificacionesAutomaticasWorker.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwB0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:17:04.989Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnviarEncuestasWorker.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Worker\\EnviarEncuestasWorker.cs",
+              "RelativeDocumentMoniker": "Worker\\EnviarEncuestasWorker.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Worker\\EnviarEncuestasWorker.cs",
+              "RelativeToolTip": "Worker\\EnviarEncuestasWorker.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:05:05.304Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Enums\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Enums\\TipoUsuario.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Enums\\TipoUsuario.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Enums\\TipoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:30:34.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAUwO0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-23T21:05:22.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\LibreriaContext.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\LibreriaContext.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\LibreriaContext.cs",
+              "ViewState": "AQIAAJkBAAAAAAAAAAAQwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:24:29.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncuestaController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\EncuestaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EncuestaController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\EncuestaController.cs",
+              "RelativeToolTip": "Controllers\\EncuestaController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwGQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:45:45.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificacionController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\NotificacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificacionController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\NotificacionController.cs",
+              "RelativeToolTip": "Controllers\\NotificacionController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAqwNgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:56:08.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisualizarDatosEncuestas.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Encuesta\\VisualizarDatosEncuestas.cshtml",
+              "RelativeDocumentMoniker": "Views\\Encuesta\\VisualizarDatosEncuestas.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Encuesta\\VisualizarDatosEncuestas.cshtml",
+              "RelativeToolTip": "Views\\Encuesta\\VisualizarDatosEncuestas.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T17:40:43.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TotemController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\TotemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TotemController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\TotemController.cs",
+              "RelativeToolTip": "Controllers\\TotemController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAIAwwMsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:06:18.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatBotService.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\ChatBotService.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Servicios\\ChatBotService.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\ChatBotService.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\Servicios\\ChatBotService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAMwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:43:16.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccesosFallidosService.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\AccesosFallidosService.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Servicios\\AccesosFallidosService.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\AccesosFallidosService.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\Servicios\\AccesosFallidosService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:16:19.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:40:35.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioConfiguration.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\Config\\UsuarioConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\Config\\UsuarioConfiguration.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\Config\\UsuarioConfiguration.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\Config\\UsuarioConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:47:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositorioAdministrador.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioAdministrador.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioAdministrador.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioAdministrador.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioAdministrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:47:08.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListadoParaMedicosHub.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\ListadoParaMedicosHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ListadoParaMedicosHub.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\ListadoParaMedicosHub.cs",
+              "RelativeToolTip": "Hubs\\ListadoParaMedicosHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:15:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HubConectado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\HubConectado.cs",
+              "RelativeDocumentMoniker": "Hubs\\HubConectado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\HubConectado.cs",
+              "RelativeToolTip": "Hubs\\HubConectado.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAwAABAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:40:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositorioDispositivoNotificaciones.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioDispositivoNotificaciones.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioDispositivoNotificaciones.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioDispositivoNotificaciones.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioDispositivoNotificaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:58:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SolicitarPacientesService.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\SolicitarPacientesService.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Servicios\\SolicitarPacientesService.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\SolicitarPacientesService.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\Servicios\\SolicitarPacientesService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:20:59.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RepositorioAccesoTotem.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioAccesoTotem.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioAccesoTotem.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioAccesoTotem.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioAccesoTotem.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:31:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SolicitarCitasService.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\SolicitarCitasService.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Servicios\\SolicitarCitasService.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\SolicitarCitasService.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\Servicios\\SolicitarCitasService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowBEAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:57:17.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RecepcionarPacienteService.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\RecepcionarPacienteService.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Servicios\\RecepcionarPacienteService.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\RecepcionarPacienteService.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\Servicios\\RecepcionarPacienteService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:38:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GeolocalizacionService.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\GeolocalizacionService.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Servicios\\GeolocalizacionService.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\GeolocalizacionService.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\Servicios\\GeolocalizacionService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:57:51.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnviarNotificacionService.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\EnviarNotificacionService.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\Servicios\\EnviarNotificacionService.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\Servicios\\EnviarNotificacionService.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\Servicios\\EnviarNotificacionService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:46:07.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CargarPacientesWorker.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Worker\\CargarPacientesWorker.cs",
+              "RelativeDocumentMoniker": "Worker\\CargarPacientesWorker.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Worker\\CargarPacientesWorker.cs",
+              "RelativeToolTip": "Worker\\CargarPacientesWorker.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:36:37.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccesoTotemViewModel.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\AccesoTotemViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AccesoTotemViewModel.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\AccesoTotemViewModel.cs",
+              "RelativeToolTip": "Models\\AccesoTotemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:45:53.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PantallaLLamadosHub.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\PantallaLLamadosHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\PantallaLLamadosHub.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\PantallaLLamadosHub.cs",
+              "RelativeToolTip": "Hubs\\PantallaLLamadosHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:15:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ActualizarListadoHub.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\ActualizarListadoHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ActualizarListadoHub.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Hubs\\ActualizarListadoHub.cs",
+              "RelativeToolTip": "Hubs\\ActualizarListadoHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:15:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RecepcionistaController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\RecepcionistaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecepcionistaController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\RecepcionistaController.cs",
+              "RelativeToolTip": "Controllers\\RecepcionistaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:56:55.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PreguntasFrecuentesController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\PreguntasFrecuentesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PreguntasFrecuentesController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\PreguntasFrecuentesController.cs",
+              "RelativeToolTip": "Controllers\\PreguntasFrecuentesController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwKEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:14:45.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Controllers\\PacienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:07:00.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LLamadoController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\LLamadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LLamadoController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\LLamadoController.cs",
+              "RelativeToolTip": "Controllers\\LLamadoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:06:18.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicoController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Controllers\\MedicoController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:53:30.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitasController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Controllers\\CitasController.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAIwHIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T22:45:10.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAcwNoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:55:54.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdministradorController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\AdministradorController.cs",
+              "RelativeToolTip": "Controllers\\AdministradorController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:22:41.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T20:08:07.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UsuariosConectados.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\UsuariosConectados.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\UsuariosConectados.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\UsuariosConectados.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\UsuariosConectados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:40:39.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Notificacion.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Notificacion.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Notificacion.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Notificacion.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:40:07.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ParametrosNotificaciones.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\ParametrosNotificaciones.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\ParametrosNotificaciones.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\ParametrosNotificaciones.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\ParametrosNotificaciones.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:40:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RespuestaEquivocada.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\RespuestaEquivocada.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\RespuestaEquivocada.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\RespuestaEquivocada.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\RespuestaEquivocada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:40:31.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Totem.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Totem.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Totem.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Totem.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Totem.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:40:35.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T22:30:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Mensaje.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Mensaje.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Mensaje.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Mensaje.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:40:05.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Medico.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Medico.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Medico.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Medico.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:56.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PreguntaFrec.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\PreguntaFrec.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\PreguntaFrec.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\PreguntaFrec.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\PreguntaFrec.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:14:05.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Recepcionista.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Recepcionista.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Recepcionista.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Recepcionista.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Recepcionista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:09:54.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LLamado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\LLamado.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\LLamado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\LLamado.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\LLamado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:54.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DispositivoNotificacion.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\DispositivoNotificacion.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\DispositivoNotificacion.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\DispositivoNotificacion.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\DispositivoNotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:33.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Paciente.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Paciente.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Paciente.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:09:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ConexionChat.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\ConexionChat.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\ConexionChat.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\ConexionChat.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\ConexionChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:31.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\CitaMedica.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\CitaMedica.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\CitaMedica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:25.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Chat.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Chat.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Chat.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Chat.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:21.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoriaPregunta.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\CategoriaPregunta.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\CategoriaPregunta.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\CategoriaPregunta.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\CategoriaPregunta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:20.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Encuesta.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Encuesta.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Encuesta.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Encuesta.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Encuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:46:00.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\Administrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:19.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AccesosFallidos.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\AccesosFallidos.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\AccesosFallidos.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\AccesosFallidos.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\AccesosFallidos.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:39:16.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AccesoTotem.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\AccesoTotem.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\Entidades\\AccesoTotem.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\Entidades\\AccesoTotem.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\Entidades\\AccesoTotem.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:46:08.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAAwCcBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:06:43.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MapaTotem.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\MapaTotem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Totem\\MapaTotem.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\MapaTotem.cshtml",
+              "RelativeToolTip": "Views\\Totem\\MapaTotem.cshtml",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAEwK8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:09:25.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TotemPreguntas.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\TotemPreguntas.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\TotemPreguntas.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\TotemPreguntas.js",
+              "RelativeToolTip": "wwwroot\\js\\TotemPreguntas.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-25T22:50:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "timerAcceso.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\timerAcceso.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\timerAcceso.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\timerAcceso.js",
+              "RelativeToolTip": "wwwroot\\js\\timerAcceso.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-23T02:32:02.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TecladoVirtualNumerico.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\TecladoVirtualNumerico.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\TecladoVirtualNumerico.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\TecladoVirtualNumerico.js",
+              "RelativeToolTip": "wwwroot\\js\\TecladoVirtualNumerico.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-21T19:59:15.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TecladoVirtualCompleto.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\TecladoVirtualCompleto.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\TecladoVirtualCompleto.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\TecladoVirtualCompleto.js",
+              "RelativeToolTip": "wwwroot\\js\\TecladoVirtualCompleto.js",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-21T19:47:18.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAYwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T19:55:12.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "sw.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\sw.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\sw.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\sw.js",
+              "RelativeToolTip": "wwwroot\\js\\sw.js",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-17T03:40:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PantallaLlamados.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\PantallaLlamados.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\PantallaLlamados.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\PantallaLlamados.js",
+              "RelativeToolTip": "wwwroot\\js\\PantallaLlamados.js",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T19:55:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "clientHub.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\clientHub.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\clientHub.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\clientHub.js",
+              "RelativeToolTip": "wwwroot\\js\\clientHub.js",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAUwIQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T19:55:10.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Chat.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\Chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Chat.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\Chat.js",
+              "RelativeToolTip": "wwwroot\\js\\Chat.js",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAuwNsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T19:55:09.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AltaPreguntaFrecuente.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\AltaPreguntaFrecuente.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\AltaPreguntaFrecuente.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\AltaPreguntaFrecuente.js",
+              "RelativeToolTip": "wwwroot\\js\\AltaPreguntaFrecuente.js",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T19:55:09.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ActualizarListadoParaMedicos.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\ActualizarListadoParaMedicos.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\ActualizarListadoParaMedicos.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\ActualizarListadoParaMedicos.js",
+              "RelativeToolTip": "wwwroot\\js\\ActualizarListadoParaMedicos.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T19:55:08.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ActualizarListadoCitas.js",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\ActualizarListadoCitas.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\ActualizarListadoCitas.js",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\wwwroot\\js\\ActualizarListadoCitas.js",
+              "RelativeToolTip": "wwwroot\\js\\ActualizarListadoCitas.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-20T19:55:07.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PreguntasFrecuentes.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\PreguntasFrecuentes\\PreguntasFrecuentes.cshtml",
+              "RelativeDocumentMoniker": "Views\\PreguntasFrecuentes\\PreguntasFrecuentes.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\PreguntasFrecuentes\\PreguntasFrecuentes.cshtml",
+              "RelativeToolTip": "Views\\PreguntasFrecuentes\\PreguntasFrecuentes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:47:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240830004946_init.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240830004946_init.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240830004946_init.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240830004946_init.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240830004946_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:49:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NotificacionesAutomaticas.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\NotificacionCU\\NotificacionesAutomaticas.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\NotificacionCU\\NotificacionesAutomaticas.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\NotificacionCU\\NotificacionesAutomaticas.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\NotificacionCU\\NotificacionesAutomaticas.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:46:24.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Login.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:11:30.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T20:49:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Microsoft.CSharp.Core.targets",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual Studio 2022\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "ToolTip": "D:\\Visual Studio 2022\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Visual Studio 2022\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
+              "ViewState": "AQIAADoAAAAAAAAAAAArwFMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-29T23:15:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CitasPorFechaViewModel.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\CitasPorFechaViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CitasPorFechaViewModel.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\CitasPorFechaViewModel.cs",
+              "RelativeToolTip": "Models\\CitasPorFechaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:18:24.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CitasViewModel.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\CitasViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CitasViewModel.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\CitasViewModel.cs",
+              "RelativeToolTip": "Models\\CitasViewModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:18:46.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CitaMedicaDTO.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\DTO\\CitaMedicaDTO.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\DTO\\CitaMedicaDTO.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\DTO\\CitaMedicaDTO.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\DTO\\CitaMedicaDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:54:49.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Citas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\Index.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Citas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Citas\\Index.cshtml",
+              "ViewState": "AQIAANEAAAAAAAAAAAAwwGoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:10:15.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "EnviarEncuestas.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\EncuestaCU\\EnviarEncuestas.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\EncuestaCU\\EnviarEncuestas.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\EncuestaCU\\EnviarEncuestas.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\EncuestaCU\\EnviarEncuestas.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:45:55.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "EnviarAvisos.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Notificacion\\EnviarAvisos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Notificacion\\EnviarAvisos.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Notificacion\\EnviarAvisos.cshtml",
+              "RelativeToolTip": "Views\\Notificacion\\EnviarAvisos.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwDUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T20:29:19.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240826214512_init.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826214512_init.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240826214512_init.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826214512_init.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240826214512_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:45:12.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AdministracionBot.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Chat\\AdministracionBot.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chat\\AdministracionBot.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Chat\\AdministracionBot.cshtml",
+              "RelativeToolTip": "Views\\Chat\\AdministracionBot.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T21:05:15.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Chat\\Chat.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chat\\Chat.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Chat\\Chat.cshtml",
+              "RelativeToolTip": "Views\\Chat\\Chat.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAIBJwEkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:04:09.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ListadoUsuarios.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Usuario\\ListadoUsuarios.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\ListadoUsuarios.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Usuario\\ListadoUsuarios.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\ListadoUsuarios.cshtml",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAowIoAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:10:10.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20240826213418_init.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826213418_init.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240826213418_init.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826213418_init.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240826213418_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:34:18.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20240826213353_asd.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826213353_asd.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240826213353_asd.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826213353_asd.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240826213353_asd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:33:53.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240826205909_init.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826205909_init.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240826205909_init.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240826205909_init.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240826205909_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:59:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PreguntasTotem.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\PreguntasTotem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Totem\\PreguntasTotem.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\PreguntasTotem.cshtml",
+              "RelativeToolTip": "Views\\Totem\\PreguntasTotem.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwDMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:51:23.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Mapa.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\Mapa.cshtml",
+              "RelativeDocumentMoniker": "Views\\Totem\\Mapa.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\Mapa.cshtml",
+              "RelativeToolTip": "Views\\Totem\\Mapa.cshtml",
+              "ViewState": "AQIAAMYAAAAAAAAAAIBJwOEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:11:10.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "RepositorioPaciente.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioPaciente.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioPaciente.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioPaciente.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioPaciente.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAcwJsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:24:08.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\PreguntasFrecuentes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PreguntasFrecuentes\\Create.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\PreguntasFrecuentes\\Create.cshtml",
+              "RelativeToolTip": "Views\\PreguntasFrecuentes\\Create.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwEUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:48:46.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "HomeUsuario.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\HomeUsuario.cshtml",
+              "RelativeDocumentMoniker": "Views\\Totem\\HomeUsuario.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\HomeUsuario.cshtml",
+              "RelativeToolTip": "Views\\Totem\\HomeUsuario.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwDwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T20:17:44.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RepositorioUsuario.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioUsuario.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioUsuario.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioUsuario.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:25:53.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CerrarSesion.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\CerrarSesion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Totem\\CerrarSesion.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\CerrarSesion.cshtml",
+              "RelativeToolTip": "Views\\Totem\\CerrarSesion.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T02:27:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ConfigurarRecordatorios.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Notificacion\\ConfigurarRecordatorios.cshtml",
+              "RelativeDocumentMoniker": "Views\\Notificacion\\ConfigurarRecordatorios.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Notificacion\\ConfigurarRecordatorios.cshtml",
+              "RelativeToolTip": "Views\\Notificacion\\ConfigurarRecordatorios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T20:41:23.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "AgregarMedico.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Administrador\\AgregarMedico.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrador\\AgregarMedico.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Administrador\\AgregarMedico.cshtml",
+              "RelativeToolTip": "Views\\Administrador\\AgregarMedico.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:45:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "AgregarRecepcionista.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Administrador\\AgregarRecepcionista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrador\\AgregarRecepcionista.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Administrador\\AgregarRecepcionista.cshtml",
+              "RelativeToolTip": "Views\\Administrador\\AgregarRecepcionista.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:45:16.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Totem\\Index.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Totem\\Index.cshtml",
+              "RelativeToolTip": "Views\\Totem\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwDUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T02:26:10.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "AgregarAdmin.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Administrador\\AgregarAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrador\\AgregarAdmin.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Administrador\\AgregarAdmin.cshtml",
+              "RelativeToolTip": "Views\\Administrador\\AgregarAdmin.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:45:56.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Citas\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Citas\\Detalles.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\Citas\\Detalles.cshtml",
+              "RelativeToolTip": "Views\\Citas\\Detalles.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:10:14.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "IRepositorioDispositivoNotificaciones.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioDispositivoNotificaciones.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioDispositivoNotificaciones.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioDispositivoNotificaciones.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioDispositivoNotificaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:22:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "AdminLogueado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\AdminLogueado.cs",
+              "RelativeDocumentMoniker": "Models\\Filtros\\AdminLogueado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\AdminLogueado.cs",
+              "RelativeToolTip": "Models\\Filtros\\AdminLogueado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:23:26.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "MedicoLogueado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\MedicoLogueado.cs",
+              "RelativeDocumentMoniker": "Models\\Filtros\\MedicoLogueado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\MedicoLogueado.cs",
+              "RelativeToolTip": "Models\\Filtros\\MedicoLogueado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:24:29.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "UsuariosViewModel.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\UsuariosViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuariosViewModel.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\UsuariosViewModel.cs",
+              "RelativeToolTip": "Models\\UsuariosViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:09:35.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Visual Studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAKISAAAAAAAAAAAmwLUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-13T18:33:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "GenerarAvisoLlegada.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\TotemCU\\GenerarAvisoLlegada.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\TotemCU\\GenerarAvisoLlegada.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\TotemCU\\GenerarAvisoLlegada.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\TotemCU\\GenerarAvisoLlegada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:47:10.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "RepositorioPreguntaFrec.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioPreguntaFrec.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioPreguntaFrec.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioPreguntaFrec.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioPreguntaFrec.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBgAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:11:18.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "GetPreguntasFrec.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\GetPreguntasFrec.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\GetPreguntasFrec.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\GetPreguntasFrec.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\GetPreguntasFrec.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:09:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ABMPreguntasFrec.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\ABMPreguntasFrec.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\ABMPreguntasFrec.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\ABMPreguntasFrec.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\PreguntasFrecCU\\ABMPreguntasFrec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:18:17.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "IRepositorioPreguntaFrec.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioPreguntaFrec.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioPreguntaFrec.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioPreguntaFrec.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioPreguntaFrec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:10:51.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "GetTotems.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\TotemCU\\GetTotems.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\TotemCU\\GetTotems.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\TotemCU\\GetTotems.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\TotemCU\\GetTotems.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:47:10.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "ABMPacientes.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\PacienteCU\\ABMPacientes.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\PacienteCU\\ABMPacientes.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\PacienteCU\\ABMPacientes.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\PacienteCU\\ABMPacientes.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:24:36.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "BorrarDispositivoNotificacion.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\DispositivoUsuarioCU\\BorrarDispositivoNotificacion.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\DispositivoUsuarioCU\\BorrarDispositivoNotificacion.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\DispositivoUsuarioCU\\BorrarDispositivoNotificacion.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\DispositivoUsuarioCU\\BorrarDispositivoNotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:23:39.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20240730210757_init.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240730210757_init.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240730210757_init.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240730210757_init.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240730210757_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:07:57.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "RepositorioMedico.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioMedico.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioMedico.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioMedico.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioMedico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:06:02.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "NotificacionDTO.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\DTO\\NotificacionDTO.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\DTO\\NotificacionDTO.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\DTO\\NotificacionDTO.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\DTO\\NotificacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:34:27.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20240723020107_descCat.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240723020107_descCat.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240723020107_descCat.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240723020107_descCat.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240723020107_descCat.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:01:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20240723020139_init.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240723020139_init.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\Migrations\\20240723020139_init.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\Migrations\\20240723020139_init.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\Migrations\\20240723020139_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:01:39.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\PreguntasFrecuentes\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "Views\\PreguntasFrecuentes\\Detalle.cshtml",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Views\\PreguntasFrecuentes\\Detalle.cshtml",
+              "RelativeToolTip": "Views\\PreguntasFrecuentes\\Detalle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:34:58.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "GetUsuarios.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\UsuarioCU\\GetUsuarios.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAplicacion\\CasosUso\\UsuarioCU\\GetUsuarios.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAplicacion\\CasosUso\\UsuarioCU\\GetUsuarios.cs",
+              "RelativeToolTip": "..\\LogicaAplicacion\\CasosUso\\UsuarioCU\\GetUsuarios.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:16:01.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "PacienteRecepcionistaLogueado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\PacienteRecepcionistaLogueado.cs",
+              "RelativeDocumentMoniker": "Models\\Filtros\\PacienteRecepcionistaLogueado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\PacienteRecepcionistaLogueado.cs",
+              "RelativeToolTip": "Models\\Filtros\\PacienteRecepcionistaLogueado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:01:20.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "IRepositorioUsuario.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "RelativeToolTip": "..\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:18:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "PacienteLogueado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\PacienteLogueado.cs",
+              "RelativeDocumentMoniker": "Models\\Filtros\\PacienteLogueado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\PacienteLogueado.cs",
+              "RelativeToolTip": "Models\\Filtros\\PacienteLogueado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:24:28.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "TotemLogueado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\TotemLogueado.cs",
+              "RelativeDocumentMoniker": "Models\\Filtros\\TotemLogueado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\TotemLogueado.cs",
+              "RelativeToolTip": "Models\\Filtros\\TotemLogueado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:24:28.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "RepositorioRecepcionista.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioRecepcionista.cs",
+              "RelativeDocumentMoniker": "..\\LogicaAccesoDatos\\EF\\RepositorioRecepcionista.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\LogicaAccesoDatos\\EF\\RepositorioRecepcionista.cs",
+              "RelativeToolTip": "..\\LogicaAccesoDatos\\EF\\RepositorioRecepcionista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:13:23.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "RecepcionistaAdminLogueado.cs",
+              "DocumentMoniker": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\RecepcionistaAdminLogueado.cs",
+              "RelativeDocumentMoniker": "Models\\Filtros\\RecepcionistaAdminLogueado.cs",
+              "ToolTip": "D:\\admin\\Nueva carpeta\\Proyecto Teleton\\ProyectoTeleton\\AppTeleton\\Models\\Filtros\\RecepcionistaAdminLogueado.cs",
+              "RelativeToolTip": "Models\\Filtros\\RecepcionistaAdminLogueado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:22:28.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿@model AppTeleton.Models.MedicoViewModel;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+    if (ViewBag.Mensaje != null)
+    {
+        if (ViewBag.TipoMensaje == "ERROR")
+        {
+            <div class="alert alert-danger" role="alert">@ViewBag.Mensaje</div>
+        }
+        else if (ViewBag.TipoMensaje == "EXITO")
+        {
+            <div class="alert alert-success" role="alert">@ViewBag.Mensaje</div>
+        }
+
+    }
+}
+
+<form id="formularioLLamado" asp-action="RealizarLLamado" asp-controller="Medico" method="post">
+    
+    <label for="consultorio">Ingrese el consultorio</label>
+    <input type="text" name="consultorio"/>
+    <input id="txtNombre" type="hidden" name="nombre">
+    <input id="txtCedula" type="hidden" name="cedula">
+
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                Nombre
+            </th>
+            <th>
+                Cedula
+            </th>
+            <th>
+                Servicio
+            </th>
+            <th>
+                Hora
+            </th>
+            <th>
+
+
+            </th>
+
+        </tr>
+    </thead>
+    <tbody id="cuerpoTabla">
+        @foreach (var cita in Model.Citas)
+        {
+            <tr>
+                <td>@cita.NombreCompleto</td>
+                <td>@cita.Cedula</td>
+                <td>@cita.Servicio</td>
+                <td>@cita.HoraInicio</td>
+                <td><input type="button" data-nombre="@cita.NombreCompleto" data-cedula="@cita.Cedula" class="botonesLLamados" value="Realizar Llamado"></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/ActualizarListadoParaMedicos.js"></script>
